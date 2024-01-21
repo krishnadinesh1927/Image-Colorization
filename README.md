@@ -17,10 +17,15 @@ Python: Primary programming language, known for its efficiency and library suppo
 ## Libraries & Frameworks:
 
 TensorFlow & Keras: For building and training the CNN model.
+
 PIL (Python Imaging Library): For image manipulation and processing.
+
 OpenCV: Utilized for advanced image processing tasks.
+
 Scikit-image: For image color space transformations.
+
 Matplotlib: For plotting and visualizing images.
+
 Tkinter: For creating the graphical user interface (GUI).
 
 ## AI/ML Technologies:
