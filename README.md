@@ -1,4 +1,4 @@
-"# Image Colourization" 
+# Image Colourization
 
 Welcome to the Grayscale Image Colorization project repository! This project is dedicated to the fascinating task of colorizing grayscale images using advanced deep learning techniques. Our focus is on employing Convolutional Neural Networks (CNNs) to transform monochrome images into their vibrant, colorized counterparts.
 
